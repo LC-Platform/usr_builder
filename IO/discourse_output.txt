@@ -1,0 +1,200 @@
+[
+    {
+        "dependent_sent_id": "None",
+        "discourse_marker": "None",
+        "discourse_relation": "समुच्चय",
+        "head_sent_id": "None",
+        "project_id": "1",
+        "sent_1": "कौन तुम्हें यह काम करने को कह रहा है ?",
+        "sent_1_id": "41",
+        "sent_2": "क्या किसी ने यह किताब पढ़ी है ? किसके साथ तुमने यह योजना बनाई ?",
+        "sent_2_id": "42"
+    },
+    {
+        "dependent_sent_id": "None",
+        "discourse_marker": "None",
+        "discourse_relation": "समुच्चय",
+        "head_sent_id": "None",
+        "project_id": "1",
+        "sent_1": "क्या किसी ने यह किताब पढ़ी है ? किसके साथ तुमने यह योजना बनाई ?",
+        "sent_1_id": "42",
+        "sent_2": "तुम कहाँ से यह सामान लाए हो ?",
+        "sent_2_id": "44"
+    },
+    {
+        "dependent_sent_id": "None",
+        "discourse_marker": "None",
+        "discourse_relation": "समुच्चय",
+        "head_sent_id": "None",
+        "project_id": "1",
+        "sent_1": "तुम कहाँ से यह सामान लाए हो ?",
+        "sent_1_id": "44",
+        "sent_2": "क्या वह किसी को इस बारे में बताएगा ?",
+        "sent_2_id": "45"
+    },
+    {
+        "dependent_sent_id": "None",
+        "discourse_marker": "None",
+        "discourse_relation": "समुच्चय",
+        "head_sent_id": "None",
+        "project_id": "1",
+        "sent_1": "क्या वह किसी को इस बारे में बताएगा ?",
+        "sent_1_id": "45",
+        "sent_2": "तुमने किससे यह जानकारी ली है ?",
+        "sent_2_id": "46"
+    },
+    {
+        "dependent_sent_id": "None",
+        "discourse_marker": "None",
+        "discourse_relation": "समुच्चय",
+        "head_sent_id": "None",
+        "project_id": "1",
+        "sent_1": "तुमने किससे यह जानकारी ली है ?",
+        "sent_1_id": "46",
+        "sent_2": "यह काम कौन समय पर पूरा करेगा ?",
+        "sent_2_id": "47"
+    },
+    {
+        "dependent_sent_id": "None",
+        "discourse_marker": "None",
+        "discourse_relation": "समुच्चय",
+        "head_sent_id": "None",
+        "project_id": "1",
+        "sent_1": "यह काम कौन समय पर पूरा करेगा ?",
+        "sent_1_id": "47",
+        "sent_2": "क्या किसी ने उसका हाल - चाल पूछा ?",
+        "sent_2_id": "48"
+    },
+    {
+        "dependent_sent_id": "None",
+        "discourse_marker": "None",
+        "discourse_relation": "समुच्चय",
+        "head_sent_id": "None",
+        "project_id": "1",
+        "sent_1": "क्या किसी ने उसका हाल - चाल पूछा ?",
+        "sent_1_id": "48",
+        "sent_2": "तुम किसके लिए इतना इंतजार कर रहे हो ?",
+        "sent_2_id": "49"
+    },
+    {
+        "dependent_sent_id": "None",
+        "discourse_marker": "None",
+        "discourse_relation": "परिणाम",
+        "head_sent_id": "None",
+        "project_id": "1",
+        "sent_1": "तुम किसके लिए इतना इंतजार कर रहे हो ?",
+        "sent_1_id": "49",
+        "sent_2": "कृष्ण किसके साथ खेलने गया है ?",
+        "sent_2_id": "50"
+    },
+    {
+        "dependent_sent_id": "None",
+        "discourse_marker": "None",
+        "discourse_relation": "परिणाम",
+        "head_sent_id": "None",
+        "project_id": "1",
+        "sent_1": "कृष्ण किसके साथ खेलने गया है ?",
+        "sent_1_id": "50",
+        "sent_2": "तुमने किससे यह बात सीखी ?",
+        "sent_2_id": "51"
+    },
+    {
+        "dependent_sent_id": "None",
+        "discourse_marker": "None",
+        "discourse_relation": "परिणाम",
+        "head_sent_id": "None",
+        "project_id": "1",
+        "sent_1": "तुमने किससे यह बात सीखी ?",
+        "sent_1_id": "51",
+        "sent_2": "तुम लोग किसके अनुसार अपनी योजना बदलोगे ?",
+        "sent_2_id": "52"
+    },
+    {
+        "dependent_sent_id": "None",
+        "discourse_marker": "None",
+        "discourse_relation": "परिणाम",
+        "head_sent_id": "None",
+        "project_id": "1",
+        "sent_1": "तुम लोग किसके अनुसार अपनी योजना बदलोगे ?",
+        "sent_1_id": "52",
+        "sent_2": "क्या किसी ने उसे यहाँ आते देखा है ?",
+        "sent_2_id": "53"
+    },
+    {
+        "dependent_sent_id": "None",
+        "discourse_marker": "None",
+        "discourse_relation": "परिणाम",
+        "head_sent_id": "None",
+        "project_id": "1",
+        "sent_1": "क्या किसी ने उसे यहाँ आते देखा है ?",
+        "sent_1_id": "53",
+        "sent_2": "वह किसके पास मदद मांगने जाएगा ?",
+        "sent_2_id": "54"
+    },
+    {
+        "dependent_sent_id": "None",
+        "discourse_marker": "None",
+        "discourse_relation": "परिणाम",
+        "head_sent_id": "None",
+        "project_id": "1",
+        "sent_1": "वह किसके पास मदद मांगने जाएगा ?",
+        "sent_1_id": "54",
+        "sent_2": "तुम लोग किस पर विश्वास करोगे ?",
+        "sent_2_id": "55"
+    },
+    {
+        "dependent_sent_id": "None",
+        "discourse_marker": "None",
+        "discourse_relation": "परिणाम",
+        "head_sent_id": "None",
+        "project_id": "1",
+        "sent_1": "तुम लोग किस पर विश्वास करोगे ?",
+        "sent_1_id": "55",
+        "sent_2": "क्या किसी को पता है कि वह कहाँ है ?",
+        "sent_2_id": "56"
+    },
+    {
+        "dependent_sent_id": "None",
+        "discourse_marker": "None",
+        "discourse_relation": "परिणाम",
+        "head_sent_id": "None",
+        "project_id": "1",
+        "sent_1": "क्या किसी को पता है कि वह कहाँ है ?",
+        "sent_1_id": "56",
+        "sent_2": "हम लोग किसके समर्थन में खड़े होंगे ?",
+        "sent_2_id": "57"
+    },
+    {
+        "dependent_sent_id": "None",
+        "discourse_marker": "None",
+        "discourse_relation": "परिणाम",
+        "head_sent_id": "None",
+        "project_id": "1",
+        "sent_1": "हम लोग किसके समर्थन में खड़े होंगे ?",
+        "sent_1_id": "57",
+        "sent_2": "तुमने किसके साथ यह यात्रा की थी ?",
+        "sent_2_id": "58"
+    },
+    {
+        "dependent_sent_id": "None",
+        "discourse_marker": "None",
+        "discourse_relation": "परिणाम",
+        "head_sent_id": "None",
+        "project_id": "1",
+        "sent_1": "तुमने किसके साथ यह यात्रा की थी ?",
+        "sent_1_id": "58",
+        "sent_2": "कौन सबसे पहले अपनी बात कहेगा ?",
+        "sent_2_id": "59"
+    },
+    {
+        "dependent_sent_id": "None",
+        "discourse_marker": "None",
+        "discourse_relation": "परिणाम",
+        "head_sent_id": "None",
+        "project_id": "1",
+        "sent_1": "कौन सबसे पहले अपनी बात कहेगा ?",
+        "sent_1_id": "59",
+        "sent_2": "क्या किसी ने उसे यह काम करने से रोका ?",
+        "sent_2_id": "60"
+    }
+]

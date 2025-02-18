@@ -1,0 +1,260 @@
+<sent_id=41>
+#कौन तुम्हें यह काम करने को कह रहा है ?
+$kim	1	-	-	7:k1	-	-	-	-
+$addressee	2	-	pl	7:k2	-	-	-	-
+$wyax	3	-	-	4:nmod__adj	-	proximal	-	-
+kAma_1	4	-	-	5:k2	-	-	-	-
+kara_1	5	-	pl	7:k2	-	-	-	-
+kaha_1-0_raha_hE_1	7	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=42>
+#क्या किसी ने यह किताब पढ़ी है ?
+$kim	1	-	-	6:adv	-	-	-	-
+kisI	2	-	-	6:k1	-	-	-	-
+$wyax	4	-	-	5:nmod__adj	-	proximal	-	-
+kiwAba_1	5	-	-	6:k2	-	-	-	-
+paDZI_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=43>
+#किसके साथ तुमने यह योजना बनाई ?
+$kim	1	-	-	6:sent-adv	-	-	-	-
+sAWa_1	2	-	-	1:lwg__psp	-	-	-	-
+$addressee	3	-	pl	6:k1	-	-	-	-
+$wyax	4	-	-	5:nmod__adj	-	proximal	-	-
+yojanA_1	5	-	-	6:k2	-	-	-	-
+banA_1-yA_1	6	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=44>
+#तुम कहाँ से यह सामान लाए हो ?
+$addressee	1	-	-	6:k1	-	-	-	-
+$kim	2	-	-	6:adv	-	-	-	-
+$wyax	4	-	-	5:nmod__adj	-	proximal	-	-
+sAmAna_1	5	-	-	6:k2	-	-	-	-
+lA_1-e_1	6	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=45>
+#क्या वह किसी को इस बारे में बताएगा ?
+$kim	1	-	-	8:adv	-	-	-	-
+$wyax	2	-	-	8:k1	-	distal	-	-
+kisI	3	-	-	8:k2	-	-	-	-
+$wyax	5	-	-	8:k7	-	proximal	-	-
+bawA_1-gA_1	8	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=46>
+#तुमने किससे यह जानकारी ली है ?
+$addressee	1	-	pl	5:k1	-	-	-	-
+$kim	2	-	-	5:adv	-	-	-	-
+$wyax	3	-	-	4:nmod__adj	-	proximal	-	-
+jAnakArI_1	4	-	-	5:k2	-	-	-	-
+le_1-yA_hE_1	5	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=47>
+#यह काम कौन समय पर पूरा करेगा ?
+$wyax	1	-	-	2:nmod__adj	-	proximal	-	-
+kAma_1	2	-	-	7:k1	-	-	-	-
+$kim	3	-	-	4:mod__wq	-	-	-	-
+samaya_1	4	-	-	7:k7t	-	-	-	-
+pUrA_1	6	-	-	-	-	-	-	9:kriyAmUla
+kara_1-gA_1	7	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=48>
+#क्या किसी ने उसका हाल - चाल पूछा ?
+$kim	1	-	-	8:adv	-	-	-	-
+kisI	2	-	-	8:k1	-	-	-	-
+$wyax	4	-	-	7:r6	-	distal	-	-
+hAla_1	5	-	-	-	-	-	-	10:op1
+cAla_1	7	-	-	-	-	-	-	10:op2
+pUCa_1-yA_1	8	-	-	0:main	-	-	-	-
+[nc_1]	10	-	-	8:vmod	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=49>
+#तुम किसके लिए इतना इंतजार कर रहे हो ?
+$addressee	1	-	-	6:k1	-	-	-	-
+$kim	2	-	-	6:rt	-	-	-	-
+iwanA_1	4	-	-	5:nmod__adj	-	-	-	-
+iMwajAra_1	5	-	-	-	-	-	-	10:kriyAmUla
+kara_1-0_raha_ho_1	6	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=50>
+#कृष्ण किसके साथ खेलने गया है ?
+kqRNa	1	male	-	-	-	-	-	8:begin
+$kim	2	-	-	4:ras-k1	-	-	-	-
+sAWa_1	3	-	-	2:lwg__psp	-	-	-	-
+Kela_1-yA_hE_1	4	-	-	0:main	-	-	-	-
+[ne_1]	8	per	-	4:k1	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=51>
+#तुमने किससे यह बात सीखी ?
+$addressee	1	-	pl	5:k1	-	-	-	-
+$kim	2	-	-	5:adv	-	-	-	-
+$wyax	3	-	-	4:nmod__adj	-	proximal	-	-
+bAwa_1	4	-	-	5:k2	-	-	-	-
+sIKa_1-yA_1	5	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=52>
+#तुम लोग किसके अनुसार अपनी योजना बदलोगे ?
+$addressee	1	-	-	2:nmod__adj	-	-	-	-
+loga_1	2	-	-	7:k1	-	-	-	-
+$kim	3	-	-	7:k7a	-	-	-	-
+apanA	5	-	-	6:r6	-	-	-	-
+yojanA_1	6	-	-	7:k2	-	-	-	-
+baxala_1-gA_1	7	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=53>
+#क्या किसी ने उसे यहाँ आते देखा है ?
+$kim	1	-	-	7:adv	-	-	-	-
+kisI	2	-	-	6:k1	-	-	-	-
+$wyax	4	-	-	6:k2	-	distal	-	-
+yahAz	5	-	-	6:k7p	-	-	-	-
+A_1	6	-	pl	7:vmod	-	-	-	-
+xeKa_1-yA_hE_1	7	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=54>
+#वह किसके पास मदद मांगने जाएगा ?
+$wyax	1	-	-	6:k1	-	distal	-	-
+$kim	2	-	-	6:k7	-	-	-	-
+pAsa_1	3	-	-	2:lwg__psp	-	-	-	-
+maxaxa_1	4	-	-	-	-	-	-	8:kriyAmUla
+mAMgane_1	5	-	-	-	-	[shade:jA_1]	-	8:verbalizer
+jA_1-gA_1	6	-	-	0:main	-	-	-	-
+[cp_1]	8	-	-	6:rt	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=55>
+#तुम लोग किस पर विश्वास करोगे ?
+$addressee	1	-	-	2:nmod__adj	-	-	-	-
+loga_1	2	-	-	6:k1	-	-	-	-
+$kim	3	-	-	6:k7	-	-	-	-
+viSvAsa_1	5	-	-	-	-	-	-	8:kriyAmUla
+kara_1-gA_1	6	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=56>
+#क्या किसी को पता है कि वह कहाँ है ?
+$kim	1	-	-	5:adv	-	-	-	-
+kisI	2	-	-	5:k4a	-	-	-	-
+pawA_1	4	-	-	5:k1	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+$wyax	7	-	-	9:k1	-	distal	-	-
+$kim	8	-	-	9:adv	-	-	-	-
+hE_1	9	-	-	6:ccof	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=57>
+#हम लोग किसके समर्थन में खड़े होंगे ?
+$speaker	1	-	pl	2:nmod__adj	-	-	-	-
+loga_1	2	-	-	7:k1	-	-	-	-
+$kim	3	-	-	4:r6	-	-	-	-
+samarWana_1	4	-	-	7:k7	-	-	-	-
+KadZe_1	6	-	-	-	-	-	-	9:kriyAmUla
+ho_1-gA_1	7	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=58>
+#तुमने किसके साथ यह यात्रा की थी ?
+$addressee	1	-	pl	6:k1	-	-	-	-
+$kim	2	-	-	6:vmod	-	-	-	-
+sAWa_1	3	-	-	2:lwg__psp	-	-	-	-
+$wyax	4	-	-	5:nmod__adj	-	proximal	-	-
+yAwrA_1	5	-	-	-	-	-	-	9:kriyAmUla
+kara_1-yA_WA_1	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=59>
+#कौन सबसे पहले अपनी बात कहेगा ?
+$kim	1	-	-	6:k1	-	-	-	-
+saba_1	2	-	-	3:nmod__adj	-	-	-	-
+pahalA_1	3	-	pl	6:k7t	-	-	-	-
+apanA	4	-	-	5:r6	-	-	-	-
+bAwa_1	5	-	-	6:k2	-	-	-	-
+kaha_1-gA_1	6	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+
+
+<sent_id=60>
+#क्या किसी ने उसे यह काम करने से रोका ?
+$kim	1	-	-	9:adv	-	-	-	-
+kisI	2	-	-	9:k1	-	-	-	-
+$wyax	4	-	-	9:k2	-	distal	-	-
+$wyax	5	-	-	6:nmod__adj	-	proximal	-	-
+kAma_1	6	-	-	7:k2	-	-	-	-
+kara_1	7	-	pl	9:k5	-	-	-	-
+roka_1-yA_1	9	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+
